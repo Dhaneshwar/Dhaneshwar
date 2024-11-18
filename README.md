@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhaneshwar
-- 👀 I’m interested in AI
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on rearches based on AI
+- 💞️ I’m looking to collaborate on rearches based on Data Science
 - 📫 reach me through my mail ndhaneshwar.n@gmail.com
 
 <!---
